@@ -35,8 +35,8 @@ parser.add_argument('--second', action='store_true', help='Apply augmentation on
 parser.add_argument('--first', action='store_true', help='Apply augmentation on first channel only')
 
 # Model hyperparameters
-parser.add_argument('--r_factor', type=int, default=2, help="training batch size")
-parser.add_argument('--pos_rfactor', type=int, default=4, help="training batch size")
+parser.add_argument('--r_factor', type=int, default=2, help="r_factor hyper-parameter")
+parser.add_argument('--pos_rfactor', type=int, default=4, help="pos_rfactor hyper-parameter")
 parser.add_argument("--pooling", default="mean", type=str, help="mean or max")
 
 
