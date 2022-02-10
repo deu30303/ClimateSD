@@ -5,7 +5,7 @@ This repo is the PyTorch codes for "Upscaling Earth System Models with Deep Lear
 
 ## Overall model architecture ##
 <center><img src="./figure/model_architecture.png"> </center>
-<center><img src="./figure/aug_arch.png"> </center>
+<center><img src="./figure/aug_architecture.png"> </center>
 
 ## Usage ##
 ```
