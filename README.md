@@ -1,6 +1,6 @@
-# Upscaling Earth System Models with Deep Learning #
-This repo is the PyTorch codes for "Upscaling Earth System Models with Deep Learning"
-> [**Upscaling Earth System Models with Deep Learning**]()
+# Downscaling Earth System Models with Deep Learning #
+This repo is the PyTorch codes for "Downscaling  Earth System Models with Deep Learning"
+> [**Downscaling Earth System Models with Deep Learning**]()
 
 
 ## Overall model architecture ##
@@ -65,6 +65,6 @@ We provide the data for our experiment. You can download the data using followin
 Currently, we support the output for our model.
 | Dataset           | Output | 
 |-------------------|---------------|
-|2x           | [Download](https://drive.google.com/file/d/1ONJbw6Qnccgl20uN38pS3RgpqeobAWxb/view?usp=sharing)  | 
-|4x           | [Download](https://drive.google.com/file/d/1SWXqE5Esu4j4n7QUrL6kbR39Xzb6bgJg/view?usp=sharing)  |
-|8x           | [Download](https://drive.google.com/file/d/15lFVyOjZvGbqdZ1R150XL9-SuGgo57kp/view?usp=sharing)  |
+|2x           | [Download](https://drive.google.com/file/d/1ib97DxM5tTBlWRG_3WB2us4GOXkPkdc7/view?usp=sharing)  | 
+|4x           | [Download](https://drive.google.com/file/d/19ANhM2OrdflCB0ak5-wF0uOHW0GVPrte/view?usp=sharing)  |
+|8x           | [Download](https://drive.google.com/file/d/1ZIV3I_KUI0fbDp0sRMevu8LJKnauSs0Z/view?usp=sharing)  |
